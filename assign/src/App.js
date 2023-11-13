@@ -71,7 +71,7 @@ function App() {
   if (showWelcome) {
     return (
       <div className="center">
-        <h1>Welcome to the Survey</h1>
+        <h1>Welco everyone to the Survey</h1>
         <button onClick={startSurvey}>Start</button>
       </div>
     );
